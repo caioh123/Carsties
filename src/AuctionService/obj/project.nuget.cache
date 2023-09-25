@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUEHwxtxYEDX0lpsPFRA415Kfu6fL3krP42rH3u1H4gVgzIfWt/dMxzf2I+OzQ5PW6TlGt0KgiDYqMjnxdIVCA==",
+  "success": true,
+  "projectFilePath": "/home/caio/Desktop/dot/Carsties/src/AuctionService/AuctionService.csproj",
+  "expectedPackageFiles": [
+    "/home/caio/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.11/microsoft.netcore.app.host.linux-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
