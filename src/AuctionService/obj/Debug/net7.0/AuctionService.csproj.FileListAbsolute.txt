@@ -23,3 +23,17 @@
 /home/caio/Desktop/dot/Carsties/src/AuctionService/obj/Debug/net7.0/AuctionService.pdb
 /home/caio/Desktop/dot/Carsties/src/AuctionService/obj/Debug/net7.0/AuctionService.genruntimeconfig.cache
 /home/caio/Desktop/dot/Carsties/src/AuctionService/obj/Debug/net7.0/ref/AuctionService.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/AutoMapper.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Humanizer.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Npgsql.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/bin/Debug/net7.0/System.CodeDom.dll
+/home/caio/Desktop/dot/Carsties/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.AssemblyReference.cache
+/home/caio/Desktop/dot/Carsties/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CopyComplete
